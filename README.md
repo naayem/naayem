@@ -1,4 +1,4 @@
-Hello, world! I'm Vincent Naayem, a Swiss-French Lebanese engineer with a kaleidoscope of passions from the realms of Robotics, AI, and software engineering. Graduating from EPFL with an MSc in Robotics, where I snagged a minor in Data Science after a BSc in MicroEngineering, I find myself constantly inspired by the potential of technology to create and innovate.
+🐙 Hello, world! I'm Vincent Naayem, a Swiss-French Lebanese engineer with a kaleidoscope of passions from the realms of Robotics, AI, and software engineering. Graduating from EPFL with an MSc in Robotics, where I snagged a minor in Data Science after a BSc in MicroEngineering, I find myself constantly inspired by the potential of technology to create and innovate.
 
 ## A Glimpse Into My World
 - 🔭 I'm currently working on cutting-edge innovative product on blockchain at JustALab.
