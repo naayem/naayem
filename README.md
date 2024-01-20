@@ -27,6 +27,27 @@ Let's create wonders together! Feel free to reach out, connect, or collaborate:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vincent%20Naayem-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vincentnaayem/)
 
 Thank you for stopping by, and I hope we can bring future innovations to life!
+
+## Languages
+
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+
+<!--![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+<>
+-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+>>![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+>>![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+>>![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+>>![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+-->
+## Technologies
+
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
+![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
+![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
+
 <!--
 **naayem/naayem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
