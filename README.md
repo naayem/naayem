@@ -24,8 +24,6 @@ A Swiss-French engineer passionate about Robotics, AI, and Software Engineering.
 
 ## Key Projects and Experiences
 
-- 🛡️ **Blockchain Product Development at JustALab**: Engaged in creating innovative blockchain solutions, emphasizing security and scalability.
-
 - 🦾 **Innovative AI and Robotics Projects**: Worked on integrating AI into diverse applications, enhancing automation, efficiency, and enabling new capabilities.
 
   - ⚙️ **Autoregulated Hydrolysis Machine**: Crafted an autoregulated hydrolysis machine with a PID controller, automating parameter tuning using machine learning techniques.
@@ -42,10 +40,7 @@ A Swiss-French engineer passionate about Robotics, AI, and Software Engineering.
 
 ## Key Skills
 
-- 🌐 **Web Scraping and Data Collection**: Developed Python scripts to collect and preprocess market data, ensuring compliance with data privacy regulations.
-- 🤖 **Chatbot Development with LLMs**: Created prototypes of chatbots using LLMs and SLMs, focusing on natural language understanding and user interaction.
-- 📊 **Predictive Modeling**: Built models to analyze trends in financial markets, leveraging machine learning techniques.
-- 🔒 **Understanding of Data Privacy and Compliance**: Knowledgeable about GDPR and ethical data handling practices.
+- 🤖 **Chatbot Development with LLMs**: Created prototypes of chatbots using LLMs, focusing on natural language understanding and user interaction.
 
 ## Technologies and Tools
 
