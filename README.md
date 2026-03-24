@@ -1,4 +1,4 @@
-# 🐙 Hello, I'm Vincent Naayem
+# 🐙 Hello
 
 A Swiss-French engineer passionate about Robotics, AI, and Software Engineering. I hold an MSc in Robotics from EPFL with a minor in Data Science, following a BSc in MicroEngineering. I'm inspired by the potential of technology to create and innovate.
 
